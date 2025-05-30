@@ -11,7 +11,10 @@
     <li>Đặt file đó vào cùng thư mục với file <code>copy_drive.py</code>.</li>
   </ol>
 
-  <h2>✅ 2. Tạo file <code>requirements.txt</code></h2>
+  <h2>✅ 2. Lấy file về máy<code>requirements.txt
+  copy-drive.py</code></h2>
+  <pre><code>git clone https:github.com/d4m-dev/Clone-Drive.git && cd Clone-Drive
+  </code></pre>
   <pre><code>google-api-python-client
 google-auth
 google-auth-oauthlib
