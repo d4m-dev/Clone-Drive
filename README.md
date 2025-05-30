@@ -12,8 +12,7 @@
   </ol>
 
   <h2>✅ 2. Lưu file về máy
-    <code>requirements.txt
-  copy-drive.py</code></h2> && 
+    <code>requirements.txt && copy-drive.py</code></h2>
 <pre><code>git clone https://github.com/d4m-dev/Clone-Drive.git</code></pre>
   <pre><code>cd Clone-Drive
 ls</code></pre>
