@@ -13,13 +13,10 @@
 
   <h2>✅ 2. Lấy file về máy<code>requirements.txt
   copy-drive.py</code></h2>
-  <pre><code>git clone https:github.com/d4m-dev/Clone-Drive.git && cd Clone-Drive
-  </code></pre>
-  <pre><code>google-api-python-client
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-</code></pre>
+  <pre><code>git clone https:github.com/d4m-dev/Clone-Drive.git</code></pre>
+  <pre><code>cd Clone-Drive
+  ls</code></pre>
+  <h3>Bạn sẽ thấy tất cả file cần thiết để chạy</h3>
 
   <h2>✅ 3. Cài thư viện</h2>
   <pre><code>pip install -r requirements.txt</code></pre>
