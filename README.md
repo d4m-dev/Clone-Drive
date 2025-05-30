@@ -13,7 +13,7 @@
 
   <h2>✅ 2. Lấy file về máy<code>requirements.txt
   copy-drive.py</code></h2>
-  <pre><code>git clone https:github.com/d4m-dev/Clone-Drive.git</code></pre>
+  <pre><code>git clone https//:github.com/d4m-dev/Clone-Drive.git</code></pre>
   <pre><code>cd Clone-Drive
 ls</code></pre>
   <h3>Bạn sẽ thấy tất cả file cần thiết để chạy</h3>
